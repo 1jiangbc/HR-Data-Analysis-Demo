@@ -1,0 +1,16 @@
+﻿employee_id,first_name,last_name,department_id,salary,performance_score
+100,Steven,King,90,24000.0,100
+101,N_ann,Kochhar,90,17000.0,100
+102,Lex,De Haan,90,17000.0,100
+103,Alexander,Hunold,60,9000.0,102
+104,Bruce,Ernst,60,6000.0,103
+105,David,Austin,60,,103
+106,Valli,Pataballa,60,,103
+107,Diana,Lorentz,60,,103
+108,Nancy,Greenberg,100,12000.0,101
+109,Daniel,Faviet,100,9000.0,108
+110,John,Chen,100,8200.0,999
+111,Ismael,Sciarra,100,7700.0,108
+112,Jose,Urman,100,7800.0,108
+113,Luis,Popp,30,11000.0,114
+114,Den,Raphaely,30,3100.0,114

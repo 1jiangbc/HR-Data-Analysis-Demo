@@ -1,0 +1,38 @@
+[
+  {
+    "dept_id": 90,
+    "dept_name": "Executive",
+    "manager": {
+      "name": "Steven King",
+      "email": "sking@company.com"
+    },
+    "location": "Seattle"
+  },
+  {
+    "dept_id": 60,
+    "dept_name": "IT",
+    "manager": {
+      "name": "Alexander Hunold",
+      "email": "ahunold@company.com"
+    },
+    "location": "Southlake"
+  },
+  {
+    "dept_id": 100,
+    "dept_name": "Finance",
+    "manager": {
+      "name": "Nancy Greenberg",
+      "email": "ngreenbe@company.com"
+    },
+    "location": "Seattle"
+  },
+  {
+    "dept_id": 30,
+    "dept_name": "Purchasing",
+    "manager": {
+      "name": "Den Raphaely",
+      "email": "draphael@company.com"
+    },
+    "location": "Seattle"
+  }
+]
